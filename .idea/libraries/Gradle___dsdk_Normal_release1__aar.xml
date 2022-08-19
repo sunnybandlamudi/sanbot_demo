@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: :dsdk-Normal-release1:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9ba3f0534a650df858b17456a9b57b60/transformed/dsdk-Normal-release1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9ba3f0534a650df858b17456a9b57b60/transformed/dsdk-Normal-release1/jars/libs/netty-codec-4.1.13.Final.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9ba3f0534a650df858b17456a9b57b60/transformed/dsdk-Normal-release1/jars/libs/netty-common-4.1.13.Final.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9ba3f0534a650df858b17456a9b57b60/transformed/dsdk-Normal-release1/jars/libs/netty-transport-4.1.13.Final.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9ba3f0534a650df858b17456a9b57b60/transformed/dsdk-Normal-release1/jars/libs/kotlin-stdlib-1.1.2-5.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9ba3f0534a650df858b17456a9b57b60/transformed/dsdk-Normal-release1/jars/libs/kotlin-stdlib-jre7-1.1.2-5.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9ba3f0534a650df858b17456a9b57b60/transformed/dsdk-Normal-release1/jars/libs/netty-resolver-4.1.13.Final.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9ba3f0534a650df858b17456a9b57b60/transformed/dsdk-Normal-release1/jars/libs/netty-buffer-4.1.13.Final.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9ba3f0534a650df858b17456a9b57b60/transformed/dsdk-Normal-release1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9ba3f0534a650df858b17456a9b57b60/transformed/dsdk-Normal-release1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
